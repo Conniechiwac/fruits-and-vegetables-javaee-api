@@ -1,6 +1,6 @@
-package model;
+package com.capgemini.model;
 
-public class Avocado extends model.LargeSeed {
+public class Avocado extends com.capgemini.model.LargeSeed {
     private boolean hybrid;
 
     public Avocado(int weight) {

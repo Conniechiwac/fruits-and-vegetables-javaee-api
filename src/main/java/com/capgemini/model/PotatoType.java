@@ -1,4 +1,4 @@
-package model;
+package com.capgemini.model;
 
 /**
  * There are more than 200 varieties of potatoes sold throughout the United States.

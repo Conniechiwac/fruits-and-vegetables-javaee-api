@@ -1,6 +1,6 @@
-package model;
+package com.capgemini.model;
 
-public abstract class Fruit extends VeganFood {
+public abstract class Fruit extends com.capgemini.model.VeganFood {
     protected int weight;
 
     public Fruit(int weight) {

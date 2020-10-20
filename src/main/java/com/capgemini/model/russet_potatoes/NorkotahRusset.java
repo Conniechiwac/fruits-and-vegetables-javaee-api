@@ -1,7 +1,7 @@
-package com.capgemini.fruits_vegatables.model.russet_potatoes;
+package com.capgemini.model.russet_potatoes;
 
-import model.Potato;
-import model.PotatoType;
+import com.capgemini.model.Potato;
+import com.capgemini.model.PotatoType;
 
 public class NorkotahRusset extends Potato {
     public NorkotahRusset(double weight) {

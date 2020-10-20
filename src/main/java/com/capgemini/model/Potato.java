@@ -1,11 +1,11 @@
-package model;
+package com.capgemini.model;
 
 import java.util.Set;
 import java.util.TreeSet;
 
 public abstract class Potato extends Vegetable {
 
-    protected model.PotatoType type;
+    protected PotatoType type;
     protected Set<String> nutritionalValue;
 
     public Potato(double weight) {
