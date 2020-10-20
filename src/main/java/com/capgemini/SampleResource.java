@@ -1,4 +1,4 @@
-package com.capgemini.fruits-vegatables;
+package com.capgemini;
 
 import javax.inject.Inject;
 import javax.ws.rs.GET;

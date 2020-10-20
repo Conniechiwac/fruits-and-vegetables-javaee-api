@@ -1,4 +1,4 @@
-package com.capgemini.fruits-vegatables;
+package com.capgemini.fruits_vegatables;
 
 import org.junit.jupiter.api.Test;
 

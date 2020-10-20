@@ -1,4 +1,4 @@
-package com.capgemini.fruits-vegatables;
+package com.capgemini;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
